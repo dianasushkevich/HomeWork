@@ -1,0 +1,7 @@
+*.iml
+.idea/
+out/'.idea' 
+'.iml' 
+'.idea'
+# Project exclude paths
+/out/
